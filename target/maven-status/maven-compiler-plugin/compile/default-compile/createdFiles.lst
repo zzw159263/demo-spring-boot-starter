@@ -1,0 +1,3 @@
+com\self\config\DemoAutoConfiguration.class
+com\self\config\DemoProperties.class
+com\self\service\DemoService.class
